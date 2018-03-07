@@ -2,4 +2,4 @@
 Ujian Front End Soal 1
 
 LINK
-http://upbeat-fermat-720c18.netlify.com/login
+http://upbeat-fermat-720c18.netlify.com
